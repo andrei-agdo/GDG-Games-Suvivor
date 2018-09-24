@@ -1,0 +1,7 @@
+F:\GDG\Suvivor\GDG.Jogos\bin\Debug\GDG.Jogos.exe.config
+F:\GDG\Suvivor\GDG.Jogos\bin\Debug\GDG.Jogos.exe
+F:\GDG\Suvivor\GDG.Jogos\bin\Debug\GDG.Jogos.pdb
+F:\GDG\Suvivor\GDG.Jogos\obj\Debug\GDG.Jogos.csprojAssemblyReference.cache
+F:\GDG\Suvivor\GDG.Jogos\obj\Debug\GDG.Jogos.csproj.CoreCompileInputs.cache
+F:\GDG\Suvivor\GDG.Jogos\obj\Debug\GDG.Jogos.exe
+F:\GDG\Suvivor\GDG.Jogos\obj\Debug\GDG.Jogos.pdb
